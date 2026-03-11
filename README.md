@@ -79,6 +79,52 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <h4>🌐 Chronicle - Modern Cron Job Management</h4>
+        <p>A visual interface to simplify cron job management for DevOps teams. Built with Next.js 15, orchestrated via Docker Compose on AWS EC2.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+        <a href="https://github.com/YashashavGoyal/chronicle"><b>Code</b></a> | <a href="https://hub.docker.com/r/yashashavgoyal/chronicle"><b>Docker Hub</b></a>
+      </td>
+      <td width="50%" valign="top">
+        <h4>🧠 Topic Master - AI Career Architect</h4>
+        <p>Autonomous AI learning agent that curates System Design and DevOps paths. Uses Gemini 2.0 and MongoDB for persistent state tracking.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        </p>
+        <a href="https://github.com/YashashavGoyal/topic-master"><b>Code</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>⚡ PyCurl - Modern CLI HTTP Client</h4>
+        <p>Python-based CLI tool bringing the power of curl with the ergonomics of Requests. Features Rich UI and secure token management.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Typer-000000?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnumetadata&logoColor=white" />
+        </p>
+        <a href="https://github.com/YashashavGoyal/pycurl"><b>Code</b></a> | <a href="https://github.com/YashashavGoyal/pycurl/releases"><b>Releases</b></a>
+      </td>
+      <td width="50%" valign="top">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🚀 Current Focus
 
 <div align="center">
@@ -123,10 +169,24 @@
 
 ---
 
+### 🕒 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yashashavgoyal&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+### 📊 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashavgoyal&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
