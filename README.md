@@ -93,7 +93,7 @@
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
-        <a href="https://github.com/YashashavGoyal/chronicle"><b>Code</b></a> | <a href="https://hub.docker.com/r/yashashavgoyal/chronicle"><b>Docker Hub</b></a>
+        <a href="https://github.com/YashashavGoyal/chronicle"><b>Code</b></a> | <a href="https://hub.docker.com/r/yashashavgoyal/chronicle"><b>Docker Hub</b></a> | <a href="https://chronicle-lake.vercel.app"><b>Live Demo</b></a>
       </td>
       <td width="50%" valign="top">
         <h4>🧠 Topic Master - AI Career Architect</h4>
@@ -118,6 +118,15 @@
         <a href="https://github.com/YashashavGoyal/pycurl"><b>Code</b></a> | <a href="https://github.com/YashashavGoyal/pycurl/releases"><b>Releases</b></a>
       </td>
       <td width="50%" valign="top">
+        <h4>📍 Real-Time Location Tracker</h4>
+        <p>A real-time web application that tracks and displays user locations on an interactive map. Powered by Node.js, Socket.io, and Leaflet.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+          <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+        <a href="https://github.com/YashashavGoyal/real-time-location-tracker"><b>Code</b></a> | <a href="https://real-time-location-tracker-3tc8.onrender.com"><b>Live Demo</b></a>
       </td>
     </tr>
   </table>
