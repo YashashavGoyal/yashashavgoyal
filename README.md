@@ -92,8 +92,9 @@
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
         </p>
-        <a href="https://github.com/YashashavGoyal/chronicle"><b>Code</b></a> | <a href="https://hub.docker.com/r/yashashavgoyal/chronicle"><b>Docker Hub</b></a> | <a href="https://chronicle-lake.vercel.app"><b>Live Demo</b></a>
+        <a href="https://github.com/YashashavGoyal/chronicle"><b>Code</b></a> | <a href="https://hub.docker.com/r/yashashavgoyal/chronicle"><b>Docker Hub</b></a> | <a href="https://chronicle-lake.vercel.app"><b>Live Demo</b></a> | <a href="https://github.com/YashashavGoyal/crontab.ui/actions"><b>GitHub Actions</b></a>
       </td>
       <td width="50%" valign="top">
         <h4>🧠 Topic Master - AI Career Architect</h4>
@@ -102,8 +103,9 @@
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
           <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
         </p>
-        <a href="https://github.com/YashashavGoyal/topic-master"><b>Code</b></a>
+        <a href="https://github.com/YashashavGoyal/topic-master"><b>Code</b></a> | <a href="https://github.com/YashashavGoyal/topic-master/actions"><b>GitHub Actions</b></a>
       </td>
     </tr>
     <tr>
@@ -114,8 +116,9 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Typer-000000?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnumetadata&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
         </p>
-        <a href="https://github.com/YashashavGoyal/pycurl"><b>Code</b></a> | <a href="https://github.com/YashashavGoyal/pycurl/releases"><b>Releases</b></a>
+        <a href="https://github.com/YashashavGoyal/pycurl"><b>Code</b></a> | <a href="https://github.com/YashashavGoyal/pycurl/releases"><b>Releases</b></a> | <a href="https://github.com/YashashavGoyal/pycurl/actions"><b>GitHub Actions</b></a>
       </td>
       <td width="50%" valign="top">
         <h4>📍 Real-Time Location Tracker</h4>
