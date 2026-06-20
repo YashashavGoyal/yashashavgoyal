@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <b>🏅 RHCE Certified | 🏅 RHCSA Certified | 🏆 SIH 2023 Winner | 💼 Backend Developer Intern</b>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Backend+Developer;Distributed+Systems+Enthusiast;Open+Source+Contributor" alt="Typing Animation" />
 </div>
 
@@ -17,8 +21,9 @@
 
 ```bash
 > name: Yashashav Goyal
+> current: Backend Developer Intern
 > role: DevOps Engineer | Backend Developer
-> focus: Distributed Systems | Cloud Infrastructure | Scalable Systems
+> focus: Distributed Systems | Cloud Infrastructure | Backend Development
 > location: India
 ```
 
@@ -32,12 +37,12 @@
       <td width="55%" align="left" valign="top">
         <br/>
         <ul>
-          <li>🎓 <b>Computer Science Student</b></li>
+          <li>💼 <b>Backend Developer Intern</b></li>
           <li>🚀 <b>DevOps Lead</b> @ GDG GITS</li>
           <li>🏆 <b>Smart India Hackathon 2023 Winner</b></li>
           <li>🥈 <b>HackItSapiens 2.0 Runner-Up</b> (National)</li>
           <li>⚡ Building scalable backend systems and cloud infrastructure</li>
-          <li>🔬 Passionate about <b>Distributed Systems, DevOps & Reliability</b></li>
+          <li>🔧 Passionate about <b>Linux, DevOps & Reliability</b></li>
         </ul>
       </td>
       <td width="45%" align="center">
@@ -45,6 +50,20 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 🏅 Certifications
+
+<div align="center">
+  <a href="https://rhtapps.redhat.com/verify?certId=250-115-771">
+    <img src="badges/rhce.png" width="120" alt="RHCE Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rhtapps.redhat.com/verify?certId=250-115-771">
+    <img src="badges/rhcsa.png" width="120" alt="RHCSA Badge"/>
+  </a>
 </div>
 
 ---
@@ -70,9 +89,9 @@
       <td align="center"><b>Cloud & Systems</b></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres&perline=3" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=docker,ansible,jenkins,git,github,githubactions,postman,nginx,npm,pnpm&perline=4" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,linux,ubuntu,windows,raspberrypi&perline=3" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws,firebase,linux,ubuntu,windows,kubernetes&perline=3" /></td>
     </tr>
   </table>
 </div>
@@ -165,7 +184,7 @@
 
 ---
 
-### 🧪 Github Contributions
+<!-- ### 🧪 Github Contributions
 
 <div align="center">
   <table width="100%">
@@ -179,7 +198,7 @@
   </table>
 </div>
 
----
+--- -->
 
 ### 📊 GitHub Activity
 
